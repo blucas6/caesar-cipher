@@ -1,6 +1,9 @@
 # ceaser-cipher
 A simple cryptographic cipher to send encoded messages to your friends.
 
+## Tags
+Terminal, Simple, Cryptography
+
 ## Encode
 Type your message and choose what shift
 
